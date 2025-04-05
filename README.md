@@ -1,5 +1,5 @@
 # 지하철 혼잡도 측정을 위한 객체 탐지 모델 실험 (Faster R-CNN 기반)
-
+![KRRI Logo]([https://www.krri.re.kr/resources/images/common/logo.png](https://i.namu.wiki/i/W2eZzV90oBH8BJOtDStobGTsG1s1FeB0X-alj828UqUgA4zVYKZV7hoVS9nZPkYf0tD6gYtTwjx7R191bTh8DBMEISGVs9m-FgmRAFeYt01S2EqoSswrAvo4n3hxOg-Bbbg7lvmL9Fa7GY0EKZKOPg.svg))
 본 프로젝트는 2024년 여름방학 동안 **한국철도기술연구원(KRRI, Korea Railroad Research Institute)**에서 근무하면서 수행한 연구 과제의 일환으로 진행되었습니다.
 
 ---
